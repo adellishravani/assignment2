@@ -1,0 +1,29 @@
+.delete {
+  height: 10px;
+  width: 10px;
+  background-color: transparent;
+  border-style: none;
+}
+.list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 25px;
+  background-color: #9ba9eb;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: antiquewhite;
+  border-width: 2px;
+  flex-wrap: wrap;
+}
+.letter {
+  background-color: aqua;
+  padding: 15px;
+  color: blueviolet;
+  border-radius: 45px;
+  margin: 8px;
+  align-self: center;
+  font-size: 25px;
+  font-weight: bold;
+}
